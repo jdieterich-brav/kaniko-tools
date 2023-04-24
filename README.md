@@ -30,3 +30,4 @@ Extends the original container image using the following utilities:
 
 > **ℹ️ Note:**
 > This container image is generated automatically every day if a new version of kaniko is released.
+> run
